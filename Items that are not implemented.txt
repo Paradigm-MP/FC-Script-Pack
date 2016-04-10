@@ -9,3 +9,6 @@ Airstrike - This item was planned for implementation, but the script was never
 	
 Implosion Trap - The implementation for this is essentially done; it just has
 	a few bugs that need fixing.
+	
+Rope - The implementation of this is essentially done and some have seen it in
+	action on the server; this script will be released in script pack 2.
