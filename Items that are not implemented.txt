@@ -1,0 +1,8 @@
+Items that are not implemented
+
+Fins, Headlamp, Air Generator - These were part of the underwater module which has
+	been removed from this pack because of the many problems it creates with different
+	clients.  The module will be released in a later pack.
+	
+Airstrike - This item was planned for implementation, but the script was never
+	finished for it.
