@@ -272,7 +272,6 @@ if string.sub(args.text, 1,7) == "/friend" then
 					for key, value in pairs(requestedfriends) do -- need to give the server the entire string, so the server doesn't have to concatenate itself
 						RF = RF .. " " .. tostring(key)
 					end
-					-- dprint("Requested Friends(RF): " .. tostring(RF))
 					local ply2ID = ply:GetId()
 					Network:Send("AddFriend", {SteamID = StmID, ReqFrnds = RF, p2ID = ply2ID}) -- send SteamID of other person, and the player's updated RequestedFriends
 					Chat:Print("Sent " .. tostring(ply:GetName() .. " a friend request"), Color(0, 255, 0))
@@ -315,7 +314,6 @@ local TableSQL = args.SQLTABLE
 	--	Chat:Print("key2: " .. tostring(a) .. " ... value2: " .. tostring(b), Color(255, 0, 0))
 	--end
 --end
-Chat:dPrint("Friends2: " .. tostring(TableSQL[1].Friends), Color(0, 255, 0)) -- split all this up into tables to help with referencing
 --Chat:Print("Requests2: " .. tostring(TableSQL[1].Requests), Color(0, 255, 0))
 --Chat:Print("RequestedFriends2: " .. tostring(TableSQL[1].RequestedFriends), Color(0, 255, 0))
 local Friends2 = tostring(TableSQL[1].Friends)
@@ -328,7 +326,7 @@ local numrequestedfriends = Count_Substring(RequestedFriends2, " ")
 --Chat:Print("numrequests: " .. tostring(numrequests), Color(255, 255, 255))
 --Chat:Print("numrequestedfriends: " .. tostring(numrequestedfriends), Color(255, 255, 255))
 --
-dprint("FRIENDS ------------")
+
 for key, value in pairs(friends) do
 	friends[key] = nil
 end
@@ -339,17 +337,14 @@ for key, value in pairs(requestedfriends) do
 	requestedfriends[key] = nil
 end
 for steamid in string.gmatch(Friends2, "%d+") do -- populate friends
-	dprint(steamid)
 	friends[steamid] = true
 end
-dprint("REQUESTS FROM OTHER PLAYERS ------")
+
 for steamid in string.gmatch(Requests2, "%d+") do -- populate requests from other players
-	dprint(steamid)
 	requests[steamid] = true
 end
-dprint("REQUESTED FRIENDS ----------- ")
+
 for steamid in string.gmatch(RequestedFriends2, "%d+") do -- populate requests from other players
-	dprint(steamid)
 	requestedfriends[steamid] = true
 end
 
