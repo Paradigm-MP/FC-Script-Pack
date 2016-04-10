@@ -53,9 +53,5 @@ there's a few more steps.
 		itemdesc["My New Item"] = "This item is really cool and awesome!"
 
 	If an item does not have a description yet does have a recipe, crafting will crash.
-	
 
-
-	
-
-
+That's it!  Your item should now appear in the crafting menu.
