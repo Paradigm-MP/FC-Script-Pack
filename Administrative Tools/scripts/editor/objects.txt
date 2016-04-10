@@ -1,0 +1,12 @@
+
+ModelSpawn( 441, 40x11.flz/go022-l.lod, 40x11.flz/go022_lod1-l_col.pfx, -14608.185547, 1991.123779, -12058.111328, -0.113515, 0.000000, 0.000000)
+ModelSpawn( 442, f1m03.interiors.flz/go047-b.lod, f1m03.interiors.flz/go047_lod1-b_col.pfx, -14613.132813, 1992.834229, -12059.139648, -0.122718, 0.000000, 0.000000)
+ModelSpawn( 445, f1m03.interiors.flz/go047-b.lod, f1m03.interiors.flz/go047_lod1-b_col.pfx, -14614.347656, 1992.838867, -12049.223633, -0.122718, 0.000000, 0.000000)
+ModelSpawn( 447, f1m03.interiors.flz/go047-b.lod, f1m03.interiors.flz/go047_lod1-b_col.pfx, -14611.292969, 1992.883545, -12073.574219, -0.122719, 0.000000, 0.000000)
+ModelSpawn( 448, f1m03.interiors.flz/go047-b.lod, f1m03.interiors.flz/go047_lod1-b_col.pfx, -14615.542969, 1992.842407, -12039.504883, -0.122718, 0.000000, 0.000000)
+ModelSpawn( 449, areaset13.blz/cs_combase-v5b.lod, areaset13.blz/cs_combase_lod1-v5b_col.pfx, -14616.389648, 1990.915649, -12030.029297, -4.786021, 1.570796, 0.000000)
+ModelSpawn( 450, areaset13.blz/cs_combase-v5b.lod, areaset13.blz/cs_combase_lod1-v5b_col.pfx, -14611.000977, 1996.682617, -12034.135742, -1.644429, 1.570796, 0.000000)
+ModelSpawn( 451, , f2m07.ice.flz/key028_02_lod1-i_col.pfx, -14611.210938, 1990.452759, -12028.932617, 0.490874, 0.000000, 0.000000)
+ModelSpawn( 453, areaset13.blz/cs_combase-v5b.lod, areaset13.blz/cs_combase_lod1-v5b_col.pfx, -14615.801758, 1990.858643, -12034.630859, -0.098174, 1.570796, 0.000000)
+ModelSpawn( 454, areaset13.blz/cs_combase-v5b.lod, areaset13.blz/cs_combase_lod1-v5b_col.pfx, -14611.561523, 1990.914551, -12029.255859, -3.239769, 1.570796, 0.000000)
+ModelSpawn( 455, f3m04.fryme.flz/key016_01-z7_.lod, f3m04.fryme.flz/key016_01_lod1-z7__col.pfx, -14620.239258, 1990.985352, -12043.830078, -1.668972, 0.000000, 0.000000)

@@ -1,0 +1,128 @@
+Admin Commands
+
+The following commands can only be used on the server by those with the [Admin] tag.
+Admins can also open all doors and remove any build objects.
+Commands with capital words in them are places where you must input valid inputs.
+Commands preceeded by a star (*) can also be used by moderators.
+
+/add ITEMNAME (AMOUNT)
+	- Adds the specified item(s) to your inventory.
+	- The item must be typed exactly as it would appear in your inventory.
+	- example syntax: "/add Grapplehook (2)"
+	
+/sub ITEMNAME (AMOUNT)
+	- Removes the specified item(s) from your inventory.
+	- The item must be typed exactly as it would appear in your inventory.
+	- example syntax: "/sub Grapplehook (2)"
+	
+*/invis
+	- Toggles invisible mode on/off.
+	- While invisible, text on the left hand side of the screen will notify you of such.
+	- Other players cannot see you while invisible and mines will not trigger.
+	- example syntax: "/invis"
+	
+*/invin
+	- Toggles invincibility on/off
+	- While invincible, text on the left hand side of the screen will notify you of such.
+	- You cannot be killed for the most part while in this mode.
+	- example syntax: "/invin"
+	
+/upgrade text: TEXT subtext: SUBTEXT
+	- Sends an upgrade message to all players with TEXT and SUBTEXT
+	- SUBTEXT is optional
+	- After you send the command, you will get a verification message to which you must type "/yes"
+	- example syntax: "/upgrade text: This is a test subtext: Hehe subtext here"
+	
+/warning text: TEXT subtext: SUBTEXT
+	- Sends a warning to all players with TEXT and SUBTEXT
+	- SUBTEXT is optional
+	- After you send the command, you will get a verification message to which you must type "/yes"
+	- example syntax: "/warning text: This is a test subtext: Hehe subtext here"
+	
+/information text: TEXT subtext: SUBTEXT
+	- Sends an information message to all players with TEXT and SUBTEXT
+	- SUBTEXT is optional
+	- After you send the command, you will get a verification message to which you must type "/yes"
+	- example syntax: "/information text: This is a test subtext: Hehe subtext here"
+	
+/money
+	- Gives you 50000 credits.
+	- example syntax: "/money"
+	
+/all500
+	- Gives everyone on the server 500 credits.
+	- example syntax: "/all500"
+	
+*/slur PLAYERNAME
+	- Slurs the player with specified PLAYERNAME.
+	- Slurring a player will cause their chat messages to be in gangster language.
+	- example syntax: "/slur dev_34"
+	
+*/unslur PLAYERNAME
+	- Unslurs the player with specified PLAYERNAME.
+	- Unslurring a player will cause their chat messages to be normal again.
+	- example syntax: "/unslur dev_34"
+	
+*/exp PLAYERID AMOUNT
+	- Gives AMOUNT exp to player with PLAYERID
+	- example syntax: "/exp 1 555"
+	
+/level PLAYERID AMOUNT
+	- Sets player with PLAYERID's level to AMOUNT
+	- Does not give IP, so use /exp instead
+	- example syntax: "/level 1 25"
+	
+/tradezone ID
+	- Teleports player to tradezone with ID.
+	- example syntax: "/tradezone 2"
+	
+/countloot
+	- Sends the player with a message of all loot spawned in the server
+	- example syntax: "/countloot"
+	
+/updatedb
+	- Updates the database with everyone's current inventories
+	- Useful for reloading the loot module without having to kick everyone
+	- example syntax: "/updatedb"
+	
+/deleteallstorages STEAMID
+	- Deletes all storages from the database with specified STEAMID
+	- example syntax: "/deleteallstorages STEAMID
+	
+/tptome PLAYERNAME
+	- Teleports player with PLAYERNAME to the player who issued the command
+	- example syntax: "/tptome dev_34"
+	
+/noobplayer PLAYERNAME
+	- Makes specified player with PLAYERNAME a noob again
+	- Module needs to be reloaded for changes to take effect
+	- By being a "noob" it means that they can go to Newbie Island
+	- example syntax: "/noobplayer dev_34"
+	
+*/mute PLAYERNAME
+	- Mutes specified player with PLAYERNAME
+	- This makes the player unable to chat until the module is reloaded or /unmute is used
+	- example syntax: "/mute dev_34"
+	
+*/unmute PLAYERNAME
+	- Unmutes specified player with PLAYERNAME
+	- This makes the player able to chat again
+	- example syntax: "/unmute dev_34"
+	
+*/msgs
+	- Opens the Moderator Messages menu
+	- Here you can create answers for FAQ and simply click on them and send when needed
+	- example syntax: "/msgs"
+	
+/p
+	- Prints all the personality values of everyone on the server
+	- example syntax: "/p"
+	
+*v
+	- Just press V and it will open up the warp menu
+	
+*0
+	- Just press 0 and it will warp you to your waypointed location
+	
+	
+	

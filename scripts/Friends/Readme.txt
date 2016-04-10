@@ -1,0 +1,1 @@
+Used for the F6 player menu as well as the friends system.

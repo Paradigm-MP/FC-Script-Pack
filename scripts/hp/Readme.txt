@@ -1,0 +1,1 @@
+Handles all information pertaining to health amounts of players.

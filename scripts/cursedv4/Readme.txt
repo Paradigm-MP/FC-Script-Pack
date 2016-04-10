@@ -1,0 +1,1 @@
+Handles the meteors and darkness of cursed areas.

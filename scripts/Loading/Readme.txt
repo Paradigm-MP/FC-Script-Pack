@@ -1,0 +1,1 @@
+Used for the loading screen on death and on connect.

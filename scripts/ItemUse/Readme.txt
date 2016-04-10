@@ -1,0 +1,1 @@
+Used for various items when you click them, ex. the car repair.

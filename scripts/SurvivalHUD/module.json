@@ -1,0 +1,19 @@
+{
+  "info": {
+	  
+    "author"		: 		"Misterff1",
+    "author_url"	: 		"",
+    "description"	: 		"The SurvivalHUD shows all information you need to know at a glance.",
+    "name"			: 		"SurvivalHUD"
+	
+	},
+   
+   
+   "resources": {
+	   
+    "Hunger"			: 		"http://i.imgur.com/qL1rHyX.png",
+	"Thirst"			: 		"http://i.imgur.com/J4mIdX0.png"
+	
+	}
+				
+}

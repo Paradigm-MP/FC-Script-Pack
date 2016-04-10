@@ -1,0 +1,13 @@
+{
+  "info": {
+    "author": "",
+    "author_url": "",
+    "description": "Auto-generated",
+    "name": "gmi"
+  },
+  "resources": {
+	"GMI_Main_Img": "http://i.imgur.com/0WjjEjR.png",
+	"GMI_Main_EnterRed": "http://i.imgur.com/qlgOLTT.png",
+	"GMI_Main_EnterGreen": "http://i.imgur.com/av9DMQ9.png"
+  }
+}

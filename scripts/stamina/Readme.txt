@@ -1,0 +1,1 @@
+Handles all stamina related stuff, including kicks.

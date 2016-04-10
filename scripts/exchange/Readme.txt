@@ -1,0 +1,1 @@
+Handles the safezones around the map as well as all of the trading stuff which is currently disabled.

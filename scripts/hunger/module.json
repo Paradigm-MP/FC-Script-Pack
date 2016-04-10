@@ -1,0 +1,14 @@
+{
+  "info": {
+    "author": "",
+    "author_url": "",
+    "description": "Auto-generated",
+    "name": "hunger"
+  },
+  "resources": {
+	"Food_Inner_IMG": "http://i.imgur.com/Jxc4wbd.png",
+	"Food_Outline_IMG": "http://i.imgur.com/DyoYC29.png",
+	"Thirst_Inner_IMG": "http://i.imgur.com/9QcdZdV.png",
+	"Thirst_Outline_IMG": "http://i.imgur.com/xteIcaO.png"
+  }
+}

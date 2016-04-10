@@ -1,0 +1,15 @@
+{
+  "info": {
+    "author": "",
+    "author_url": "",
+    "description": "Auto-generated",
+    "name": "vehicles"
+ },
+   
+   
+   "resources": {
+	   
+    "GasPump"			: 		"http://i.imgur.com/hKNqaLa.png"
+
+	}
+}

@@ -1,0 +1,1 @@
+Handles all the build stuff for storages and placing faction guards.

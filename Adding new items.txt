@@ -1,0 +1,61 @@
+Adding New Items Tutorial
+
+1. Navigate to lua/autorun/shared/items.lua:
+
+	Add in a new entry, following the examples provided.
+	
+		ex.
+		
+			reference["My New Item"] = "Utility"
+			rarity["My New Item"] = 3
+			stacklimit["My New Item"] = 5
+			inlootbox["My New Item"] = true
+			
+2. Navigate to Hannah/shared/SQLInfo.lua:
+
+	Add in a new entry, following the examples provided.
+	The two letter value in the table must NOT be used by any other entries.
+	To make sure this is case, simply search for the two letters in the file.
+	
+	ex.
+	
+		SQLFormat["My New Item"] = "xq"
+
+	If the two letter value is used more than once in the table, bad things will happen.
+	
+That's it for simply adding an item.  However, if you want to add a crafting recipe too,
+there's a few more steps.
+
+3. Navigate to crafting/shared/recipes.lua:
+
+	Add in a new entry, following the examples provided.
+	
+	ex.
+	
+		cRecipes["My New Item"] = {}
+		cRecipes["My New Item"].craftReq = 3 <- This is what crafting level is needed
+		cRecipes["My New Item"].amtGet = 5 <- Amount you get when you craft one
+		cRecipes["My New Item"].craftTime = 10 <- Time it takes to craft
+		cRecipes["My New Item"].M1 = "Silver" <- Material 1 name
+		cRecipes["My New Item"].M1a = 4 <- Material 1 amount needed
+		cRecipes["My New Item"].M2 = "Iron" <- Material 2 name
+		cRecipes["My New Item"].M2a = 2 <- Material 2 amount
+		
+	Technically you can create a recipe that requires any number of materials,
+	though more than 10 will likely run off the crafting menu.
+
+4. Navigate to crafting/client/iteminfo.lua:
+
+	Add in a new entry, following the examples provided.
+	
+	ex. 
+	
+		itemdesc["My New Item"] = "This item is really cool and awesome!"
+
+	If an item does not have a description yet does have a recipe, crafting will crash.
+	
+
+
+	
+
+

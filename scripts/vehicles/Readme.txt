@@ -1,0 +1,1 @@
+Handles all vehicle related stuff such as spawning, ownership, F7 menu, etc.

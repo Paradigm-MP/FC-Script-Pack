@@ -1,0 +1,18 @@
+{
+  "info": {
+    "author": "",
+    "author_url": "",
+    "description": "Auto-generated",
+    "name": "landclaim"
+
+  },
+   
+
+   "resources": {
+	   
+    "LMB"			: 		"http://i.imgur.com/tNeD3PK.png",
+	"RMB"			: 		"http://i.imgur.com/e5rXJZO.png",
+	"Yes"			: 		"http://i.imgur.com/4WeL1xt.png",
+	"No"			: 		"http://i.imgur.com/KGLaKPK.png"
+	}
+}

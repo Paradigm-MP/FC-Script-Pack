@@ -1,0 +1,1 @@
+Used for all damage in the server.

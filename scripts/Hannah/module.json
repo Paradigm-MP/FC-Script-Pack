@@ -1,0 +1,24 @@
+{
+  "info": {
+    "author": "",
+    "author_url": "",
+    "description": "Auto-generated",
+    "name": "Loot2.1"
+  },
+  "resources": {
+  "Inv_BG_IMG": "http://i.imgur.com/uR4WjWt.png",
+  "Build_Cat_IMG": "http://i.imgur.com/zV7aY6O.png",
+  "Raw_Cat_IMG": "http://i.imgur.com/LqdevXx.png",
+  "Utility_Cat_IMG": "http://i.imgur.com/OazBuCe.png",
+  "Food_Cat_IMG": "http://i.imgur.com/qJAKoOy.png",
+  "Weaponry_Cat_IMG": "http://i.imgur.com/iRub7Y0.png",
+  "Social_Cat_IMG": "http://i.imgur.com/fKQEPuW.png",
+  "DropBox_IMG": "http://i.imgur.com/2yFPMe5.png",
+  "T1_INDICATOR_IMG": "http://i.imgur.com/YMaht5q.png",
+  "T2_INDICATOR_IMG": "http://i.imgur.com/FmD03ZB.png",
+  "T3_INDICATOR_IMG": "http://i.imgur.com/lQX5h8q.png",
+  "Slot_IMG": "http://i.imgur.com/VohjJrF.png",
+  "StorageIcon_IMG": "http://i.imgur.com/YAOY6U5.png"
+  }
+
+}

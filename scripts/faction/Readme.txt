@@ -1,0 +1,1 @@
+Used for everything about factions including base claiming.

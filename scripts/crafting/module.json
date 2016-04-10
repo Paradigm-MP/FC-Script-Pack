@@ -1,0 +1,24 @@
+{
+  "info": {
+    "author": "",
+    "author_url": "",
+    "description": "Auto-generated",
+    "name": "crafting"
+  },
+  "resources": {
+	"LookAtTable": "http://i.imgur.com/OEnoULq.png",
+	"Utility": "http://i.imgur.com/QCWrppr.png",
+	"UtilityGray": "http://i.imgur.com/9tSAEPL.png",
+	"Raw": "http://i.imgur.com/jSGktXo.png",
+	"RawGray": "http://i.imgur.com/ErDNIEO.png",
+	"Social": "http://i.imgur.com/n12GIPW.png",
+	"SocialGray": "http://i.imgur.com/D8rLjfL.png",
+	"Weaponry": "http://i.imgur.com/IR4TwXK.png",
+	"WeaponryGray": "http://i.imgur.com/mDjYDqc.png",
+	"Food": "http://i.imgur.com/fftsFNZ.png",
+	"FoodGray": "http://i.imgur.com/c3BoI82.png",
+	"Build": "http://i.imgur.com/mw7i0Us.png",
+	"BuildGray": "http://i.imgur.com/QgH3Uto.png"
+
+  }
+}

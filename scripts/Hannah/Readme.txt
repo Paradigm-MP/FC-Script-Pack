@@ -1,0 +1,1 @@
+The monster loot module.  This handles all item, loot, inventory, etc stuff.

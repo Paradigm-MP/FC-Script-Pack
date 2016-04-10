@@ -1,0 +1,1 @@
+Handles all stuff for waypointing a location and then pressing 0 to teleport to it.

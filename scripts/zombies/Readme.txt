@@ -1,0 +1,1 @@
+Handles all the roaming zombies around the map.

@@ -1,0 +1,1 @@
+Handles the roaming squads used on newbie island.

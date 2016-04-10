@@ -1,0 +1,16 @@
+{
+  "info": {
+    "author": "Misterff1",
+    "author_url": "",
+    "description": "This map replaced the default map on the Fallen Civilization server in Just Cause 2 Multiplayer.",
+    "name": "Map"
+  },
+
+  "resources": {
+	   
+	"Map"			: 		"http://i.imgur.com/j1su75W.png",
+	"Home"			: 		"http://i.imgur.com/BKy6nE5.png",
+	"Waypoint"		: 		"http://i.imgur.com/d9r5o6A.png"
+
+	}
+}

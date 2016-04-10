@@ -1,0 +1,17 @@
+{
+  "info": {
+    "author": "",
+    "author_url": "",
+    "description": "Auto-generated",
+    "name": "ItemUse"
+  },
+  "resources": {
+	"Drug_Outline_IMG": "http://i.imgur.com/2XyB6U9.png",
+	"Drug_PF_IMG": "http://i.imgur.com/6TTsYeL.png",
+	"Drug_MF_IMG": "http://i.imgur.com/4n4CbJj.png",
+	"Drug_VF_IMG": "http://i.imgur.com/4OB8pfD.png",
+	"Drug_NOS_IMG": "http://i.imgur.com/3rbxSkY.png",
+	"Drug_BlackGuy": "http://i.imgur.com/CuMJZgG.jpg",
+	"Drug_LF_IMG": "http://i.imgur.com/UjlfpWV.png"
+}
+}

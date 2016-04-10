@@ -1,0 +1,1 @@
+Handles all hunger/thirst information.

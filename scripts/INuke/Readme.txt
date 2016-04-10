@@ -1,0 +1,1 @@
+Handles all information for implosion traps.

@@ -1,0 +1,16 @@
+	{
+  "info": {
+    "author": "Lord Farquaad & Misterff1",
+    "author_url": "",
+    "description": "This script overlays the default loadingscreen and is synced with actual client loading time.",
+    "name": "Loading"
+   },
+
+   "resources": {
+	   
+	"BackgroundImage"			: 		"http://i.imgur.com/AR709Mz.jpg",
+	"LoadingCircle_Outer"		: 		"http://i.imgur.com/LXz5iow.png",
+	"LoadingCircle_Inner"		: 		"http://i.imgur.com/6rj9h3D.png"
+
+	}
+}

@@ -1,0 +1,1 @@
+Handles the random weather and long monsoons.

@@ -1,0 +1,15 @@
+Some of these scripts were produced from modified versions of scripts released by other users.
+Here is a list of credits as well as the locations of the original scripts.
+
+Bank: Philpax - https://github.com/Philpax/jc2mp-bank
+TimeChange: JasonMRC - https://github.com/Jasonmrc/TimeChange
+GUIPM: Castillo - https://github.com/Castillos15/guipm
+AWG-Factions: Anzu - https://github.com/smithb895/JC2-MP-AWGFactions
+Help: Philpax - https://github.com/jc2mp/scripts
+Speedometer: Arkadius - https://www.jc-mp.com/forums/index.php/topic,5930.0.html
+WarpGUI: Eraknelo - https://github.com/Eraknelo/WarpGUI
+
+
+All other scripts were created by the Fallen Civilization Team.
+
+If you have any questions about credits, please don't hesitate to ask.

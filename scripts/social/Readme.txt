@@ -1,0 +1,1 @@
+Handles all equipping of social items such as hats and disguises.
