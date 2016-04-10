@@ -1,0 +1,11 @@
+Important information regarding reloading modules
+
+If you are hosting a server with these scripts installed, it is very important
+that you do NOT reload certain modules without warning.
+
+	- Hannah: Before reloading, type "/updatedb" to ensure players' inventories are saved
+	- vehicles: Before reloading, tell people to get out of their vehicles
+	- freebuild: Reloading this module will cause some of the angles of build objects
+		to go in weird directions. This is because of a bug in the code.
+		
+All other modules can be reloaded at any time relatively safely without data loss.
