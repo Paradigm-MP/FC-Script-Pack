@@ -6,3 +6,6 @@ Fins, Headlamp, Air Generator - These were part of the underwater module which h
 	
 Airstrike - This item was planned for implementation, but the script was never
 	finished for it.
+	
+Implosion Trap - The implementation for this is essentially done; it just has
+	a few bugs that need fixing.
