@@ -8,6 +8,7 @@ AWG-Factions: Anzu - https://github.com/smithb895/JC2-MP-AWGFactions
 Help: Philpax - https://github.com/jc2mp/scripts
 Speedometer: Arkadius - https://www.jc-mp.com/forums/index.php/topic,5930.0.html
 WarpGUI: Eraknelo - https://github.com/Eraknelo/WarpGUI
+Wingsuit: SinisterRectus - https://github.com/SinisterRectus/JC2MP-Wingsuit
 
 
 All other scripts were created by the Fallen Civilization Team.
