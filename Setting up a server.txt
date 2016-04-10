@@ -9,38 +9,18 @@ of work to get things functioning properly.
     UnoccupiedRemove            = false
     IKnowWhatImDoing            = true
 	
-2. Add these scripts to the scripts folder:
-
-	TimeChange: https://github.com/Jasonmrc/TimeChange
-	Bank: https://github.com/Philpax/jc2mp-bank
-	GUIPM: https://github.com/Castillos15/guipm
-	WarpGUI: https://github.com/Eraknelo/WarpGUI
-	
-	Some of these scripts were slightly modified from their original versions.
-	
-	TimeChange: No changes.
-	Bank: A few GUI updates and command changes.
-	GUIPM: Server print messages.
-	WarpGUI: Restricted to those with the Admin or Mod tag, removed chat messages, removed
-	accept/decline features, and removed appear/disappear effects.
-	
-	The server absolutely REQUIRES TimeChange and Bank, however the other two are not necessary.
-	
-	Also make sure that you know how to use autorun and that you put the required scripts in it.
-	Many scripts (including loot) will not function properly if this is not set up correctly.
-	
-3. Make yourself an admin:
+2. Make yourself an admin:
 
 	Navigate to scripts/nametags3/server/specialplayers.lua
 	Add your own Steam ID in the sp table following the examples provided.
 	
-4. Delete the database:
+3. Delete the database:
 
 	Find and delete server.db in the root of the server hierarchy.
 	This ensures that every player who joins will have a fresh start and there are no
 	database anomalies at boot.
 	
-5. Start the server and join:
+4. Start the server and join:
 
 	You should find yourself at Newbie Island, and there should be loot scattered around as
 	well as vehicles and helpful messages.
