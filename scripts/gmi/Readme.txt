@@ -1,1 +1,0 @@
-Used for the GMI user interface for buying items, etc.
