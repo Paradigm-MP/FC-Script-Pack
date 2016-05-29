@@ -63,14 +63,14 @@ Commands preceeded by a star (*) can also be used by moderators.
 	- Unslurring a player will cause their chat messages to be normal again.
 	- example syntax: "/unslur dev_34"
 	
-*/exp PLAYERID AMOUNT
+*/exp AMOUNT PLAYERID
 	- Gives AMOUNT exp to player with PLAYERID
-	- example syntax: "/exp 1 555"
+	- example syntax: "/exp 555 1"
 	
-/level PLAYERID AMOUNT
+/level AMOUNT PLAYERID
 	- Sets player with PLAYERID's level to AMOUNT
 	- Does not give IP, so use /exp instead
-	- example syntax: "/level 1 25"
+	- example syntax: "/level 25 1"
 	
 /tradezone ID
 	- Teleports player to tradezone with ID.
